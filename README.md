@@ -1,7 +1,10 @@
 # A03
 Branch: A set of related code changes within a project; projects can have multiple.
+
 Clone: Copy a GitHub Repository onto your local computer.
+
 Commit: A snapshot of your repository.
+
 Fetch: Retrieve newly completed work done by other people.
 GIT: Open-source version control system; useful for tracking changes within a project through snapshots, and working collaboratively.
 Github: Internet-hosted website that serves the purpose of offering GIT's version control functionality as well as its own features.
