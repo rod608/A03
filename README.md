@@ -1,5 +1,5 @@
 # A03
-*Git, GitHub, WebStorm*
+Git, GitHub, WebStorm
 
 *Git & Github*
 
